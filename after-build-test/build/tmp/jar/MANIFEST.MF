@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Implementation-Title: after-build-test
+Implementation-Version: 5.0.11.BUILD-SNAPSHOT
+Automatic-Module-Name: after.build.test
+Created-By: 9.0.1 (Oracle Corporation)
+
